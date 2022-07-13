@@ -15,6 +15,8 @@
     limitations under the License.
  -->
 
+`LOCAL TESTING BRANCH`
+
 # Apache Solr
 
 Apache Solr is an enterprise search platform written in Java and using [Apache Lucene](https://lucene.apache.org/).
